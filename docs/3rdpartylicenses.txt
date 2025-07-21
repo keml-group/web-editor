@@ -432,7 +432,7 @@ Apache-2.0
    limitations under the License.
 
 
-ngx-arrows
+ngx-svg-graphics
 
 rxjs
 Apache-2.0
